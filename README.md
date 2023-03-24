@@ -1,4 +1,4 @@
-# datosyconecciones
+# DatosyConecciones
 Este es un sitio web que presta servicios varios.
 Está construido en Php puro, Html y Css.
 
@@ -9,5 +9,6 @@ Sientete libre de usarlo y mejorarlo.
 ante cualquier duda o inquietud puedes contactarme.
 
 Email: jose-fragozo@hotmail.com
-Whatsapp: 57-3015961478  
+Whatsapp: 57-3015961478 
+Celular: 57-3242399367  
 Facebook: https://www.facebook.com/Datos010conecciones
